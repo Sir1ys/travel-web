@@ -25,12 +25,12 @@ git clone https://github.com/Sir1ys/travel-web.git && npm install
 
 .env
 
-REACT_APP_FIREBASE_API_KEY = [api-key-here]
-REACT_APP_FIREBASE_AUTH_DOMAIN = [auth-domain-here]
-REACT_APP_FIREBASE_PROJECT_ID = [project-id-here]
-REACT_APP_FIREBASE_STORAGE_BACKET = [storage-backet-here]
-REACT_APP_FIREBASE_MESSAGING_SENDER_ID = [messaging-sender-id-here]
-REACT_APP_FIREBASE_APP_ID = [app-id-here]
+- REACT_APP_FIREBASE_API_KEY = [api-key-here]
+- REACT_APP_FIREBASE_AUTH_DOMAIN = [auth-domain-here]
+- REACT_APP_FIREBASE_PROJECT_ID = [project-id-here]
+- REACT_APP_FIREBASE_STORAGE_BACKET = [storage-backet-here]
+- REACT_APP_FIREBASE_MESSAGING_SENDER_ID = [messaging-sender-id-here]
+- REACT_APP_FIREBASE_APP_ID = [app-id-here]
 
 5. To start developing, run one command in scripts section of the package.json:
 
